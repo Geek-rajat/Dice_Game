@@ -1,0 +1,39 @@
+body{
+    background-color: #27aa80;
+    text-align: center;
+}
+h1{
+   font-family:'Sacramento',cursive;
+    font-size: 5rem;
+    color: #f0f696;
+    margin-bottom: 2%;
+}
+p{
+    font-family:'Merriweather',cursive;
+    font-size: 3rem;
+    
+}
+.img1{
+    position: absolute;
+    margin-left:10%;
+    }
+.img2{
+    position: absolute;
+    margin-left: 50%
+}
+.image1{
+    width:55%
+}
+.image2{
+    width:55%
+  
+   
+}
+.container{
+ position: relative
+}
+.footer1{
+    font-size: 1rem;
+    position: absolute;
+   margin: 40% 30% 0 45%;
+}
